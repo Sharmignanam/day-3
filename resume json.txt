@@ -1,0 +1,50 @@
+Resume in JSON format:
+
+{
+  "basics": {
+    "name": "Sharmila S",
+    "label": "Full Stack Developer",
+    "image": "",
+    "email": "sharmilas.mca@gmail.com",
+    "phone": "(917) 544-171-947",
+    "url": "https://inspiring-figolla-2ed965.netlify.app",
+      "location": {
+      "address": "shafiya 10",
+      "city": "AbuDhabi",
+      "countryCode": "AUX",
+      "region": "United Arab Emirates"
+    },
+    "profiles": [{
+      "network": "instagram",
+      "username": "sharmila sathana",
+      "url": "https://instagram.com/sharmila sathana"
+    }]
+  },
+ 
+  "education": [{
+    "institution": "Anna University",
+    "url": "https://pmu.edu/",
+    "area": "Computer Applications",
+    "studyType": "Master",
+    "startDate": "2006-08-01",
+    "endDate": "2009-05-31",
+    "score": "78%",
+     }],
+  "skills": [{
+    "name": "Full Stack Development",
+      "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+	"Node Js",
+	"React Js",
+	"MongoDB",
+	"SQL",
+	"AWS", 
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Intermediate"
+  }]
+}
